@@ -5,7 +5,7 @@
 -->
 
 My name is Sergey and I'm Android developer at ZimaOffice Danmark ApS. In my work I'm using Kotlin language for creating cool applications and have fun with it))
-In a free time I'm learning new stuff like backend and game dev, so I'm trying different technologies like C#, Java, Scala, C++.
+In a free time I'm learning new stuff like backend and game dev, so I'm trying different technologies like C#, Java, C++.
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GrishinSergey&theme=radical&layout=compact)
